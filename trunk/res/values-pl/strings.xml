@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Stan konta</string>
+	<string name="list_tittle">Lista wszystkich stanów konta</string>
+	
+	<!--  Settings -->	
+	<string name="general_title">Ustawienia generalne</string>
+	
+   	<string name="sms_name_title">Nagłówek SMS</string>
+	<string name="sms_name_title_description">Nazwa nadawacy wiadomości sms</string>
+	
+ 	<string name="sms_prefix">Wyraz początkowy</string>
+	<string name="sms_prefix_description">Wyraz początkowy od którego rozpocznie się wycianianie kwoty. Wyraz który znajduje się przed kwotą rachunku.</string>
+	
+	<string name="sms_currency">Waluta</string>
+	<string name="sms_currency_description">Wyraz końcowy od którego rozpocznie się wycinianie kwoty. Zazwyczaj jest to kwota Twojego kraju</string>
+	
+</resources>

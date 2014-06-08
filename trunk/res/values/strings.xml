@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Balance</string>
+	<string name="list_tittle">Balance list</string>
+	
+	<!--  Settings -->	
+	<string name="general_title">General settings</string>
+	
+   	<string name="sms_name_title">SMS Header</string>
+	<string name="sms_name_title_description">Name header text message you want to work for sms widget</string>
+	
+ 	<string name="sms_prefix">Beginning of the scan</string>
+	<string name="sms_prefix_description">The initial term of which will scan over your messages to obtain the amount of a specific sms</string>
+	
+	<string name="sms_currency">Curreny</string>
+	<string name="sms_currency_description">What is the currency of your country</string>
+	
+</resources>
