@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	 
+	<PreferenceCategory
+	      android:title="@string/general_title" >     
+	     
+	      <EditTextPreference
+		     android:key="sms_name"
+		     android:defaultValue="" 
+		     android:summary="@string/sms_name_title_description"
+		     android:title="@string/sms_name_title" />			     
+	      
+	      <EditTextPreference
+		     android:key="sms_prefix"
+		     android:defaultValue="" 
+		     android:summary="@string/sms_prefix_description"
+		     android:title="@string/sms_prefix" />	
+		     
+	      <EditTextPreference
+		     android:key="sms_currency"
+		     android:defaultValue="" 
+		     android:summary="@string/sms_currency_description"
+		     android:title="@string/sms_currency" />	    	
+
+	 </PreferenceCategory> 
+	 
+	  
+	
+</PreferenceScreen>

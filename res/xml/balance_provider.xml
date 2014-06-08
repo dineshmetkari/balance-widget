@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+  android:minWidth="146dip"
+  android:minHeight="45dip"
+  android:updatePeriodMillis="6000"
+  android:initialLayout="@layout/balance_widget"
+  android:autoAdvanceViewId="@+id/list_parsed_sms"
+  android:resizeMode="vertical"
+/>
